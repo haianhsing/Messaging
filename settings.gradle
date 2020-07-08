@@ -1,0 +1,2 @@
+include ':app', ':chips', ':vcard', ':colorpicker', ':photoviewer', ':common', ':framesequence'
+rootProject.name='Messaging'
